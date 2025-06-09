@@ -1,6 +1,6 @@
 # 🌍 Climate Change Dashboard – Global Emissions & Temperature Trends (1960–Present)
 
-![Dashboard Screenshot](static/ClimateDashboardImg.png)
+![Dashboard Screenshot](static/Climate_Dashboard_img.png)
 
 ## 📊 Overview
 
